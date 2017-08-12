@@ -1,0 +1,7 @@
+This is my own custom SDF viewer for making things like in Shadertoy. This isn't really meant for production, but you're welcome to use it.
+
+Necessary things:
+
+- GLFW 3
+- Glad
+- glm
